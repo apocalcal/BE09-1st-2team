@@ -138,18 +138,18 @@ https://www.notion.so/coffit23/1dfa02b1ffb180a283a1d624e982de61
 - **기간:** 2025-04-24
 - **세부 업무:**  시스템 구현에 따른 스토리보드로 흐름 확인 및 피드백, 회고록 작성
 
-**MSA 설계서**
-https://www.notion.so/coffit23/BSC-MSA-1dfa02b1ffb1801b97e3c414eb8f773e
 
----
-
-5단계 : **테스트 및 발표**
+**5단계 : 테스트 및 발표**
 
 - **기간:** 2025-04-24
 - **세부 업무:** 시스템 테스트 및 프로젝트 설명
 
 ---
 ## 스토리보드 및 화면설계서
+- ### MSA 설계서
+https://www.notion.so/coffit23/BSC-MSA-1dfa02b1ffb1801b97e3c414eb8f773e
+---
+
 ### 1. 메인 화면
 
 ![스크린샷 2025-04-24 153832](https://github.com/user-attachments/assets/f9385e4a-69c8-4864-9869-74dbb0149a68)
