@@ -138,6 +138,7 @@ https://www.notion.so/coffit23/1dfa02b1ffb180a283a1d624e982de61
 - **기간:** 2025-04-24
 - **세부 업무:**  시스템 구현에 따른 스토리보드로 흐름 확인 및 피드백, 회고록 작성
 
+**MSA 설계서**
 https://www.notion.so/coffit23/BSC-MSA-1dfa02b1ffb1801b97e3c414eb8f773e
 
 ---
