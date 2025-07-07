@@ -147,10 +147,7 @@ https://www.notion.so/coffit23/1dfa02b1ffb180a283a1d624e982de61
 
 ---
 
-
 ## 스토리보드
-
----
 
 ### 1. 메인 화면
 
@@ -298,13 +295,9 @@ https://www.notion.so/coffit23/1dfa02b1ffb180a283a1d624e982de61
 
 삭제 완료!
 
-
-
-
-
 ---
 
-- ### MSA 설계서
+### MSA 설계서
 https://www.notion.so/coffit23/BSC-MSA-1dfa02b1ffb1801b97e3c414eb8f773e
 
 ---
