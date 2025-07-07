@@ -101,10 +101,6 @@
 - **세부 업무:** 요구사항 명세서 작성 , 데이터베이스 ERD 설계명
 
 ---
-요구사항 정의서
-
-https://www.notion.so/coffit23/1dfa02b1ffb180a283a1d624e982de61
----
 
 유스케이스 다이어그램
 
@@ -145,9 +141,15 @@ https://www.notion.so/coffit23/1dfa02b1ffb180a283a1d624e982de61
 - **세부 업무:** 시스템 테스트 및 프로젝트 설명
 
 ---
-## 스토리보드 및 화면설계서
-- ### MSA 설계서
-https://www.notion.so/coffit23/BSC-MSA-1dfa02b1ffb1801b97e3c414eb8f773e
+
+## 요구사항 정의서
+https://www.notion.so/coffit23/1dfa02b1ffb180a283a1d624e982de61
+
+---
+
+
+## 스토리보드
+
 ---
 
 ### 1. 메인 화면
@@ -302,6 +304,10 @@ https://www.notion.so/coffit23/BSC-MSA-1dfa02b1ffb1801b97e3c414eb8f773e
 
 ---
 
+- ### MSA 설계서
+https://www.notion.so/coffit23/BSC-MSA-1dfa02b1ffb1801b97e3c414eb8f773e
+
+---
 
 ## 트러블 슈팅 및 한계점 
 
